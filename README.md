@@ -1,7 +1,7 @@
 # World clock app
 
 ## Description
-An application that allows the user to monitor the current time of some cities in the world, and choose among other options in the option bar section. It uses APIs, moment.js and moment.timezone.js libraries.
+An application that allows the user to monitor the current time of some cities in the world, and to choose among other options in the option bar section. It uses APIs, moment.js and moment.timezone.js libraries. Built during SheCodes workshop.
 
 ## Used technologies:
 - HTML5
